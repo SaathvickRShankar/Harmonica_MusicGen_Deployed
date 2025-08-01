@@ -1,10 +1,9 @@
 # Environment variables
 .env
 
-# # Python virtual environment
-# venv/
-# /venv/
-# __pycache__/
+# Python virtual environment
+venv/
+__pycache__/
 
 # Temporary files from app
 temp_audio/
