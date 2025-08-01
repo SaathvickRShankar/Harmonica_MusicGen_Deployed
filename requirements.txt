@@ -5,7 +5,7 @@ langchain-community
 langchain-google-genai
 torch
 torchaudio
-git+https://github.com/facebookresearch/audiocraft.git
+audiocraft
 transformers
 accelerate
 sentencepiece
